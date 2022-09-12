@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/template-web-project"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "SoftwareDesignSecondRepository"
+	}
+}
